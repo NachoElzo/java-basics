@@ -1,5 +1,3 @@
-package javafiles;
-
 import java.util.Scanner;
 
 public class BonusSalaryCalculator {
